@@ -36,7 +36,7 @@ Enhance your FiveM experience with **Lc-firstaim**! 🚀
 
 ## ⚙️ Configuration Example (`config.lua`)
 
-![Config Preview](https://cdn.discordapp.com/attachments/1273860064607731782/1424782278923518042/image.png?ex=68e53366&is=68e3e1e6&hm=1e76c25fc0d38ace845b812395bc730a52009fec8fcf3ce723bb0308c0ca1110&)
+![Config Preview]([https://cdn.discordapp.com/attachments/1273860064607731782/1424782278923518042/image.png?ex=68e53366&is=68e3e1e6&hm=1e76c25fc0d38ace845b812395bc730a52009fec8fcf3ce723bb0308c0ca1110&](https://cdn.discordapp.com/attachments/1273860064607731782/1424784216146575380/image.png?ex=68e53534&is=68e3e3b4&hm=2ce797b853f8de76f4dccd69f4508117c1a0e9b968adec33c3b8d52ea4f4182a&))
 
 ---
 
@@ -48,5 +48,6 @@ Enhance your FiveM experience with **Lc-firstaim**! 🚀
 ## 📝 License
 
 This project is released under the [MIT License](https://opensource.org/licenses/MIT).
+
 
 ---
